@@ -1,4 +1,4 @@
-# SPLADE
+# SPLADE (clone of https://github.com/naver/splade)
 [![paper](https://img.shields.io/badge/arxiv-arXiv%3A2107.05720-brightgreen)](https://arxiv.org/abs/2107.05720)
 [![blog](https://img.shields.io/badge/blog-splade-orange)](https://europe.naverlabs.com/blog/splade-a-sparse-bi-encoder-bert-based-model-achieves-effective-and-efficient-first-stage-ranking/)
 [![huggingface weights](https://img.shields.io/badge/huggingface-splade-9cf)](https://huggingface.co/naver)
